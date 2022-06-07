@@ -1,4 +1,4 @@
-cask "cleanshot" do
+cask "clean-shot" do
   version "4"
   url "https://updates.getcleanshot.com/v3/CleanShot-X-4.1.dmg"
   name "Clean Shot X"
